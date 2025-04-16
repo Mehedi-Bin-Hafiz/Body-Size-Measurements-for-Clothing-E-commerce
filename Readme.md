@@ -22,5 +22,5 @@ This repository contains a RESTful API built with Django and integrated with cut
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/visionai-size-measurement-api.git
-   cd visionai-size-measurement-api
+   https://github.com/Mehedi-Bin-Hafiz/Body-Size-Measurements-for-Clothing-E-commerce.git
+   cd Body-Size-Measurements-for-Clothing-E-commerce
