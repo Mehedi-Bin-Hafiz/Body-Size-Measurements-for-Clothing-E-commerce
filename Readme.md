@@ -24,3 +24,7 @@ This repository contains a RESTful API built with Django and integrated with cut
    ```bash
    https://github.com/Mehedi-Bin-Hafiz/Body-Size-Measurements-for-Clothing-E-commerce.git
    cd Body-Size-Measurements-for-Clothing-E-commerce
+
+## Download models
+1. Download models from this [link](https://drive.google.com/drive/folders/1MzyVOCx4e3cd4WkxrPG-hRMifHdOzmb8?usp=sharing)
+2. Keep these models into models folder 
