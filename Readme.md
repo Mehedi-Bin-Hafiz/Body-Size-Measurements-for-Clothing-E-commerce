@@ -1,4 +1,4 @@
-# VisionAI Size Measurement API
+# VisionAI Size Measurement API (Under development)
 
 This repository contains a RESTful API built with Django and integrated with cutting-edge AI models for size measurement. The system processes images of a person (front and side views) and calculates body measurements, helping to determine accurate clothing sizes.
 
